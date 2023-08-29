@@ -4,5 +4,5 @@ Chemist
   
 is a basic game which turned into a website
   
-<a href="">check the demo here</a>
+<a href="https://demo.chemist.pages.dev">check the demo here</a>
 <pre>
