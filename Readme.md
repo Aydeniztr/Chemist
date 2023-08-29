@@ -1,7 +1,6 @@
 <pre>
-<h1>Chemist<h1>
-<br>
-<p>a basic game which turned into a website
-<br>
+Chemist
+=======
+is a basic game which turned into a website
 <a href="">check the demo here</a>
 <pre>
